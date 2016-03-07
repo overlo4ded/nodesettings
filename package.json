@@ -1,0 +1,7 @@
+{
+  "name": "nodesettings.js",
+  "version": "0.1.0",
+  "author": "overlo4ded (http://www.overlo4ded.com)",
+  "repository":{"type":"git","url":"https://github.com/overlo4ded/nodesettings.git"},
+  "engine": "node >= 0.8.x"
+}
